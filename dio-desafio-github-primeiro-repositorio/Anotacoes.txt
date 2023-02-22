@@ -1,0 +1,4 @@
+Link para downloand do Git: 
+
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
