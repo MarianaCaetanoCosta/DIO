@@ -1,0 +1,49 @@
+Quiz - Java - Plataformas e Escolha sua IDE
+
+Considerando os inúmeros recursos de uma IDE, qual do itens citados não é aplicado como uma funcionalidade do ambiente de desenvolvimento ?
+
+Integração continua
+
+
+Sabemos que uma das plataformas da linguagem Java contém uma biblioteca de componentes visuais, selecione esta plataforma.
+
+Java SE
+
+
+Quais são os componentes de instalação da plataforma Java?
+
+JDK/JRE
+
+
+Qual dos itens citados NÃO é considerada uma IDE para desenvolver aplicações na linguagem Java?
+
+PyCharm
+
+
+Qual ferramenta tem o papel de converter o bytecode em um algoritmo que é interpretado pelo sistema operacional?
+
+JVM
+
+
+Você disponibilizou uma aplicação compilada para seus clientes, qual componente será necessário estar instalado na máquina do seu cliente?
+
+JRE
+
+
+Qual a extensão de um arquivo que contém o código fonte da linguagem Java?
+
+.java
+
+
+Após a compilação do código fonte na linguagem, qual a extensão do conteúdo gerado?
+
+.class
+
+A linguagem Java conta com 4 plataformas de desenvolvimento, qual das alternativas NÃO faz parte?
+
+Java IO
+
+
+Qual plataforma contém recursos para desenvolvimento com recursos como páginas Web?
+
+Java EE

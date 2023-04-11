@@ -1,0 +1,39 @@
+Quiz - Aprendendo a Sintaxe Java
+
+Qual o tipo de dados seria mais recomendado para representar um CPF?
+long
+
+
+Encontre o erro no código abaixo:
+
+public class Tv {
+    int canal = 1;
+    void mudarCanal(){
+        canal = novoCanal;
+    }
+}
+
+O metodo mudarCanal deveria ter o parâmetro int novoCanal
+
+
+Qual a melhor definição do método abaixo:
+public String formatarCep(long cep){}
+
+Este método tem por finalidade formatar um número de cep para texto que represente um código postal legível.
+
+
+Qual é o valor impresso na execução do código abaixo ?
+public static void main(String[] args) throws Exception {
+      int numero1 = 1;
+      String numero2 = "2";
+      System.out.println(numero1+numero2); 
+    }
+	
+12
+
+
+Considerando que você precisa criar um arquivo Java para representar um Ponto Eletrônico, qual seria a forma mais recomendada para conteúdo inicial do arquivo?
+
+public class PontoEletronico {}
+
+

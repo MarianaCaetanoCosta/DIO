@@ -1,0 +1,73 @@
+Quiz - Metodologias Ágeis e Ciclo de Desenvolvimento de Software
+
+São valores do XP, exceto:
+
+Rapidez
+
+
+Assinale a alternativa incorreta dentre as diferentes abordagens/padrões de avaliação e e aperfeiçoamento de processos de software:
+
+Itil
+
+
+Assinale a alternativa incorreta quanto a conceitos relacionados a processos de software.
+
+O fluxo de processos de software é o mesmo independente do modelo considerado.
+
+
+Sobre o processo unificado é incorreto afirmar:
+
+Os testes só existem ao final do projeto
+
+
+Sobre o Scrum, estão incorretas:
+I - É baseado no empirismo e no pensamento Lean.
+II - É incremental, mas não é interativo.
+III - Não possui eventos definidos, pois contraria a agilidade.
+IV - Seus valores são transparência, adaptação e inspeção.
+V - O ciclo de desenvolvimento é baseado nas chamadas 'sprints', onde a equipe deve ser autogerenciável.
+
+II, III, IV
+
+
+Estão incorretas:
+I - O processo incremental não pode ser usada em projetos "tradicionais".
+II - O modelo incremental aplica sequências lineares de forma escalonada, permitindo entrega de versões ou incrementos do software;
+III - Modelos evolucionários são necessariamente iterativos.
+IV - A prototipação não pode ser usada como técnica para levantamento e/ou refinamento de requisitos devido ao alto custo de desenvolvimento.
+V - O modelo espiral é evolucionário e une a natureza iterativa da prototipação com aspectos sistemáticos e controlados do modelo cascata.
+
+I e IV
+
+
+Sobre o manifesto ágil é correto afirmar:
+I - Antes do manifesto ágil não existiam métodos ditos "ágeis".
+II - Os métodos ágeis eram chamados de "leves".
+III - O nome "manifesto" remete a ideia de posicionamento político, contrariando a ideia do que é o ideal, o tradicional.
+IV - O manifesto diz que as documentações não devem existir, pois gera burocracia.
+V - Ser ágil é trabalhar de forma colaborativa e adaptável.
+
+II, III, V
+
+
+Sobre os modelos prescritivos, estão corretas:
+I - Concentra-se em modelos que estruturem e ordenem o processo de desenvolvimento.
+II - São chamados de prescritivos, porque ditam técnicas de programação estruturada.
+III - São também chamados de "tradicionais"
+IV - É o modelo mais utilizado no mercado de TI atualmente.
+V - Diferentes modelos podem convergir quanto a características, como no caso do modelo cascata e V
+
+
+I, III e V
+
+
+Quanto ao modelo cascata assinale a incorreta:
+
+Pode ser usaso em qualquer tipo de projeto sem prejuizo e sem mudanças no escopo ou requisitos.
+
+
+Quanto as estratégias e métodos de testes no modelo ágil, assinale a incorreta:
+
+As atividades de testes só devem ocorrer no final de cada sprint.
+
+

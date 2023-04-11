@@ -1,0 +1,46 @@
+Quiz - Automação de Testes com Selenium WebDriver e Java
+
+Qual o propósito dos Testes de Aceitação?
+
+Verificar se o software está pronto e pode ser utilizado pelos usuários, para desempenhar as funções e tarefas para as quais o software foi construido.
+
+Sobre os Testes Unitários, é INCORRETO que:
+
+Os testes unitários dependem de alguns processos ou sistemas externos (Banco de dados, rede, console e etc).
+
+Qual a desvantagem de utilizar o localizador By.tagName(“tag name”)?
+
+Pode haver vários elementos com o mesmo nome da tag
+
+De forma objetiva, o que seria o POM?
+
+Page Object Model (ou POM) nos permite criar um repositório de objetos com elementos contidos numa página Web.
+
+Sobre o Selenium WebDriver é CORRETO afirmar:
+
+O Selenium WebDriver usa o prôprio driver do navegador para automação.
+
+
+“A _______________________ consiste em linguagens como Java, Ruby, Python, C# e etc. Após os casos de teste acionados, o código do Selenium será convertido para o formato Json."
+
+Selenium Client Library
+
+
+Sobre o Selenium Actions, suas ações são executadas por quem?
+
+API Advanced User Interactions, que consiste na classe Selenium Action para realizar essas interações.
+
+
+Sobre a interação com o WebElement, marque a alternativa que aponta três comandos mais utilizados:
+
+Click, Send Keys e Clear.
+
+
+A Classe Select só funcionam para alguns elementos que seriam:
+
+Html select e option.
+
+
+Qual a permissão que o WebDriverWait nos oferece?
+
+PErmite que nosso código possa interromper a exwcução do programa ou congele o encadeamento, até que a condição que possamos seja resolvida

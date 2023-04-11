@@ -1,0 +1,51 @@
+QUIZ - Introdução à Plataforma Java
+
+
+Antes da linguagem receber o nome de Java, qual foi o primeiro nome escolhido pelo time de desenvolvimento?
+
+Oak
+
+
+Qual dos itens citados NÃO faz parte do conjunto de funcionalidades (features) da linguagem Java?
+
+Sem tipagem, ou seja, fracamente tipada
+
+
+Para executar uma aplicação desenvolvida em Java, convertendo os bytecodes em código de máquina, é necessário ter disponível em nosso sistema operacional o recurso denominado de?
+
+JVM, através do JDK ou JRE
+
+
+Como se chama o desenvolvedor que liderou o projeto para criação da linguagem Java?
+
+James Gosling
+
+
+Qual dos itens citados NÃO faz parte dos 4 pilares da orientação a Objetos?
+
+Sobrecarga
+
+
+Hoje sabemos que a linguagem Java é mantida pela empresa Oracle Inc, mas antes, que empresa tinha os direitos desta tecnologia?
+
+Sun Microsystems
+
+
+Qual foi o fato que contribuiu para que a linguagem se tornasse tão popular?
+
+a linguagem se popularizou pelo termo "Write Once, Run Anywhere", que enaltece a interoperabilidade da plataforma Java.
+
+
+A linguagem Java é baseada sobre quais linguagens de programação?
+
+C e C++
+
+
+Como é chamado o conceito de execuções paralelas em uma aplicação?
+
+Multi-threading
+
+
+Como é denominado o código originado da compilação de programas Java?
+
+Bytecode

@@ -1,0 +1,67 @@
+QUIZ - O caminho para a Certificação CTFL
+
+
+Qual dos itens a seguir fornece a definição do termo de caso de testes?
+
+Um conjunto de condições prévistas, insumos, ações, resultados esperados e pós condições, desenvolvido com basse em consições de teste.
+
+
+Como os testes de caixa-branca podem ser aplicados durante os testes de aceite?
+
+Verificar se todos os fluxos do processo de trabalho foram cobertos
+
+
+O que é teste baseado em checklist?
+
+Uma técnica de teste baseada em experiencia em que o testador experiente usa uma lista de itens a serem anotados, verificados ou lembrados, ou um conjunto de regras ou critérios contra os quais um produto deve ser verificado.
+
+
+Sr. Test tem testado aplicações de software em dispositivos móveis por um período de 5 anos. Ele tem uma grande experiência em testar aplicações móveis e alcança os melhores resultados em um tempo mais curto do que outros. Durante vários meses, o Sr. Test não modificou os casos de testes automatizados e não criou casos de testes. Isto leva a que cada vez menos defeitos sejam encontrados através das execuções dos testes. Que princípio de teste o Sr. Test não observou?
+
+A repetição dos mesmos testes não encontrará novos defeitos.
+
+
+Qual das seguintes definições é a MELHOR a respeito do modelo de desenvolvimento incremental?
+
+Definição de requisitos, projeto de software e testes são efitos em fases a cadas parte do sistema que é adidionada.
+
+
+Qual dos seguintes é o mais provável de ser usado como motivo para usar um projeto piloto para introduzir uma ferramenta em uma organização?
+
+a necessidade de avaliar como a ferramenta se ajusta aos processos e práticas existentes e determinar o que precisaria mudar.
+
+
+"Uma aplicação de vídeo tem a seguinte exigência: O aplicativo deve permitir a reprodução de um vídeo na seguinte resolução de tela:
+* 640X480
+*1280X720
+*1600X1200
+*1920X1080
+Qual dos seguintes casos de teste é resultado da aplicação da técnica de equivalência de partição para testar este requisito?"
+
+Verificarr se aplicação pode reproduzir um video em cada um dos tamanhos de exibição na exigência (4 casos de teste).
+
+
+Qual das seguintes declarações descreve corretamente um papel da análise de impacto nos testes de manutenção?
+
+A análise de impacto é utilizada para identificar como os dados devem ser migrados para o sistema mantido.
+
+
+Qual dos itens a seguir não está incluido em um relatório resumido do teste?
+
+Definição de critérios de aprovação/reprovação e objetivos dos testes.
+
+
+"O bônus de um funcionário deve ser calculado. Não pode ser negativo, mas pode ser calculado até zero. O bônus é baseado na duração do emprego: 
+- menor ou igual a 2 anos
+- mais de 2 anos, mas menos de 5 anos
+- de 5 a 10 anos, inclusive
+- mais de 10 anos
+Qual o número mínimo de casos de testes necessário para cobrir todas as partições de equivalência válidas para o cálculo do bônus?"
+
+
+4
+
+
+Qual dos itens a seguir não está incluído em um relatório resumido de teste?
+
+Definição de critérios de aprovação/reprovação e objetivos dos testes

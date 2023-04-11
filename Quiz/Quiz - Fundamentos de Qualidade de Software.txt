@@ -1,0 +1,68 @@
+Quizz - Fundamentos de Qualidade de Software
+
+Sobre as normas técnicas estão corretas:
+
+I - Documentos duplicados por organizações profissionais que objetivam padronizar determinadas atividades, processos ou produtos;
+II - As únicas organizações que publicam normas são IEE, ISO e IEC;
+III - As normas são importantes para garantir comunicação e padronização de processos na equipe;
+IV - As normas da família ISO 9000 são focadas na gestão de qualidade de software somente;
+V - A norma ISO/IEC 25010 substitui a norma ISO/IEC 9126 quanto aos modelos de qualidade de produto de software.
+
+
+III, IV, V
+
+
+Assinale a alternativa correta quanto a medição de qualidade de software.
+
+De acordo com a ISO/IEC 25010, existem dois modelos de qualidade de software: do produto e do produto em uso. ambas possuem caracteristicas e subcaracteristicas que norteiam as mpetricas de qualidade.
+
+
+Quanto as atividades do processo de teste estão corretas:
+I - Os testes não possuem influência externas, portanto, devem seguir sempre as mesmas decisões e técnicas para todo projeto.
+II - As etapas de teste incluem: planejamento, monitoramento, análise, modelagem, implementação, execução e conclusão.
+III - Faz parte do planejamento de teste definimos estimativas e prazos.
+IV - Os níveis de teste dizem respeito às atividades de testes gerenciadas em um certo nível e visão do software.
+V - Os tipos de testes dizem respeitos a atividades de testes com base em objetivos, portanto, o mesmo tipo de teste não pode ser aplicado em diferentes níveis de teste.
+VI - A pirâmide de teste ideal consiste na utilização de um grande número de testes automatizados de interface, estando estes na base da pirâmide.
+
+II, III, IV
+
+
+O processo de validação consiste em:
+
+Garantir que o software desenvolvido atende aos requisitos e às necessidades do negocio de acordo com a visão dos stakeholders.
+
+
+Assinale a alternativa incorreta quanto às técnicas de teste:
+
+A técnica de caixa preta de tabela de decisão é util quando se tem uma faixa de valores de entrada que são processados da mesma forma, obtendo, portanto, os mesmos resultados. Com essa técnica a quantidade de testes é reduzida e é representativa para todo o conjunto de valores de entrada avaliado.
+
+
+Assinale a sentença correta quanto às definições de qualidade de software presente na literatura.
+
+a qualidade de software é conformidade a requisitos funcionais e desempenho que foram explicitamente declarados, a padrões documentados e caracteristicas implicitas que são esperadas de todo software desenvolvido por profissionais.
+
+
+Sobre o gerenciamento de defeitos estão corretas: 
+I - Um defeito pode ser descrito genericamente como qualquer anomalia encontrada no software.
+II - A definição de um ciclo de vida do bug deve ser de responsabilidade somente da equipe de qualidade. 
+III - O analista de qualidade não deve se preocupar em fornecer evidências que auxiliem o desenvolvedor, pois a depuração já é suficiente para a correção.
+IV - O reporte de defeitos é importante para auxiliar no rastreio de qualidade do software a partir da obtenção de métricas.
+V - O reporte de defeitos auxilia na reprodução e isolamento do defeito de forma a facilitar sua correção.
+
+I, IV, V
+
+
+Assinale a afirmativa INCORRETA quanto aos princípios de teste:
+
+Testes exaustivos em todo o sistema são caros, mas possiveis
+
+
+O gerenciamento de qualidade consiste nas seguintes atividades principais numa visão de mais alto nível:
+
+testes de software
+
+
+Todas as sentenças são objetivos do teste de software, exceto...
+
+Criar métricas relacionadas ao desempenho dos desenvolvedores do produto
