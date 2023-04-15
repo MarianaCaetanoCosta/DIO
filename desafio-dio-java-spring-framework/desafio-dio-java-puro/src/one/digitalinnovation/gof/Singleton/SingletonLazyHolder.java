@@ -1,4 +1,4 @@
-package Singleton;
+package one.digitalinnovation.gof.Singleton;
 
 /**
  * Singleton "LazyHolder".

@@ -1,4 +1,4 @@
-package Strategy;
+package one.digitalinnovation.gof.Strategy;
 
 public class Robo {
     //Estratégia de comportamento para o Robo

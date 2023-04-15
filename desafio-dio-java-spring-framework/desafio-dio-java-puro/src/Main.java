@@ -1,7 +1,6 @@
-import Singleton.SingletonLazy;
-import Singleton.SingletonEager;
-import Singleton.SingletonLazyHolder;
-import Strategy.*;
+import one.digitalinnovation.gof.Facade.*;
+import one.digitalinnovation.gof.Singleton.*;
+import one.digitalinnovation.gof.Strategy.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -46,6 +45,8 @@ public class Main {
 
         System.out.println("------------");
 
-        System.out.println("* Desing Pattern \n");
+        System.out.println("* Desing Pattern Facede\n");
+        Facade facade = new Facade();
+        facade.migrarCliente("Mariana", "31456-789");
     }
 }
