@@ -1,9 +1,12 @@
+import br.com.dio.desafio.dominio.Conteudo;
 import br.com.dio.desafio.dominio.Curso;
 import br.com.dio.desafio.dominio.Mentoria;
 import java.time.LocalDate;
 
 public class Main {
     public static void main(String[] args) {
+
+        /* Herança */
 
         //Instanciar o objeto Curso
         Curso curso1 = new Curso();
@@ -35,5 +38,13 @@ public class Main {
 
         System.out.println(mentoria1);
         System.out.println(mentoria2);
+
+        /* Polimorfismo
+            Não é possivel instanciar a classe Conteudo, pois é uma classe abstrata. (Conteudo conteudo = new Conteudo();
+            Mas você pode pode criar um Curso ou Mentória a partir da classe Conteudo
+         */
+
+        Conteudo conteudo = new Curso();
+        Conteudo mentoria = new Curso();
         }
     }
