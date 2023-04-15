@@ -21,7 +21,7 @@ public class Dev{
         bootcamp.getDevsInscritos().add(this);
     }
 
-    public void progradir(){
+    public void progredir(){
         //Pegar o conteudo na ordem em que foi adicionado
         //Optional: resolve retornos nulos
          Optional<Conteudo> conteudo = this.conteudosInscritos.stream().findFirst();
