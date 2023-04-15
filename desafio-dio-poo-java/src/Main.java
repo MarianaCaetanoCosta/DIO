@@ -45,6 +45,6 @@ public class Main {
          */
 
         Conteudo conteudo = new Curso();
-        Conteudo mentoria = new Curso();
+        Conteudo mentoria = new Mentoria();
         }
     }
