@@ -1,17 +1,39 @@
-// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
-// then press Enter. You can now see whitespace characters in your code.
+import br.com.dio.desafio.dominio.Curso;
+import br.com.dio.desafio.dominio.Mentoria;
+import java.time.LocalDate;
+
 public class Main {
     public static void main(String[] args) {
-        // Press Alt+Enter with your caret at the highlighted text to see how
-        // IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
 
-        // Press Shift+F10 or click the green arrow button in the gutter to run the code.
-        for (int i = 1; i <= 5; i++) {
+        //Instanciar o objeto Curso
+        Curso curso1 = new Curso();
+        curso1.setTitulo("curso java");
+        curso1.setDescricao("descrição curso java");
+        curso1.setCargaHoraria(8);
 
-            // Press Shift+F9 to start debugging your code. We have set one breakpoint
-            // for you, but you can always add more by pressing Ctrl+F8.
-            System.out.println("i = " + i);
+        Curso curso2 = new Curso();
+        curso2.setTitulo("curso js");
+        curso2.setDescricao("descrição curso js");
+        curso2.setCargaHoraria(4);
+
+        //Instanciar o objeto Mentoria
+        Mentoria mentoria1 = new Mentoria();
+        mentoria1.setTitulo("curso java");
+        mentoria1.setDescricao("descrição: curso java");
+        mentoria1.setData(LocalDate.now());
+
+        Mentoria mentoria2 = new Mentoria();
+        mentoria2.setTitulo("curso js");
+        mentoria2.setDescricao("descrição: curso js");
+        mentoria2.setData(LocalDate.now());
+
+        //Imprimir
+        System.out.println(curso1);
+        System.out.println(curso2);
+
+        System.out.println();
+
+        System.out.println(mentoria1);
+        System.out.println(mentoria2);
         }
     }
-}
